@@ -1,0 +1,169 @@
+{
+  "//": "TODO: Convert to relational database",
+  "reactions": [
+    {
+      "category": "Haloalkanes",
+      "name": "Finkelstein Reaction"
+    },
+    {
+      "category": "Haloalkanes",
+        "name": "Swarts Reaction"
+    },
+    {
+      "category": "Haloalkanes",
+      "name": "Hunsdiecker Reaction"
+    },
+    {
+      "category": "Haloalkanes",
+      "name": "Wurtz Reaction"
+    },
+    {
+      "category": "Haloarenes",
+      "name": "Sandmeyer Reaction"
+    },
+    {
+      "category": "Haloarenes",
+      "name": "Gattermann Reaction"
+    },
+    {
+      "category": "Haloarenes",
+      "name": "Fittig Reaction"
+    },
+    {
+      "category": "Haloalkanes, Haloarenes",
+      "name": "Wurtz-Fittig Reaction"
+    },
+    {
+      "category": "Alcohols",
+      "name": "Lucas' Test"
+    },
+    {
+      "category": "Phenols",
+      "name": "Dow's Process"
+    },
+    {
+      "category": "Phenols",
+      "name": "Kolbe's Schmidt Reaction"
+    },
+    {
+      "category": "Phenols",
+      "name": "Riemer-Tiemann Reaction"
+    },
+    {
+      "category": "Ethers",
+      "name": "Williamson Ether Synthesis"
+    },
+    {
+      "category": "Ethers",
+      "name": "Friedel-Crafts Acylation"
+    },
+    {
+      "category": "Ethers",
+      "name": "Friedel-Crafts Alkylation"
+    },
+    {
+      "category": "Aldehydes",
+      "name": "Rosenmund Reduction"
+    },
+    {
+      "category": "Aldehydes",
+      "name": "Stephens Reduction"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Clemmensen Reduction"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Wolff-Kishner Reduction"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Cannizzaro Reaction"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Haber-Weiss Reaction"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann Elimination"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann Rearrangement"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Rearrangement"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Condensation"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Reduction"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Oxidation"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Hydrolysis"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Hydrogenation"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Reduction"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Oxidation"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Hydrolysis"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Hydrogenation"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Reduction"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Hofmann-Claisen Oxidation"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Benzoin Condensation"
+    },
+    {
+      "category": "Aldehydes & Ketones",
+      "name": "Perkin Reaction"
+    },
+    {
+      "category": "Nitrogen Compounds",
+      "name": "Mendius Reaction"
+    },
+    {
+      "category": "Nitrogen Compounds",
+      "name": "Hoffman's Amonolysis"
+    },
+    {
+      "category": "Nitrogen Compounds",
+      "name": "Gabriel Phthalimide Synthesis"
+    },
+    {
+      "category": "Nitrogen Compounds",
+      "name": "Hinsberg's test"
+    }
+  ]
+}
